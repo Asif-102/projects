@@ -13,3 +13,10 @@ x = x + y;//12
 y = x - y;//5
 x = x - y;//7
 console.log('after swap: x =', x, 'y =', y);
+
+var p = 5;
+var q = 7;
+console.log('before swap: p =', p, 'q =', q);
+[p, q] = [q, p];
+console.log('after swap: p =', p, 'q =', q);
+
