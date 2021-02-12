@@ -23,3 +23,4 @@
 
 //how-much-typescript-you-should-know-now >>> https://web.programming-hero.com/web-3/video/web-3-29-10-how-much-typescript-you-should-know-now <<<***very very important
 
+//typeScript Series tutorial >>> https://www.youtube.com/watch?v=CHnTTzD1pAQ&list=PLHiZ4m8vCp9PgOOjdyNpc6AoBmKNrp_u3&fbclid=IwAR3NNIXTNxYG2oFsldU89YwOXnlEoBN0YKcBrcrRdeLcUJBLhGbOIg5WF8c
