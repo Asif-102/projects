@@ -15,7 +15,7 @@
 
 //convert all *.ts* file to *.js* file into *dist* folder >>> *tsc*
    
-//interface er por **UpporCase** use korte hoi  like::: interface Player{  }
+//interface er por **UpperCase** use korte hoi  like::: interface Player{  }
 
 //typescript-interface-and-use-complex-parameter-type >>> https://web.programming-hero.com/web-3/video/web-3-29-8-typescript-interface-and-use-complex-parameter-type <<<***very very important
 
